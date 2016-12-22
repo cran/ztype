@@ -1,0 +1,11 @@
+cfc3397911b30c99f89df704332ba33c *DESCRIPTION
+d9736a421007592494370eb7d215b491 *NAMESPACE
+4af7e3ec69e8af0fe334f68c634e7d3e *R/doc_package.R
+0da2ef7ec5385da908eff50f5e6ede7e *R/fonction.R
+2b3b735cf17ba06cc02146468b92ba30 *R/onAttach.R
+bfd07fe3a7ac3144e044968759894221 *README.md
+ac7b060ac279b1fa7a945919222a058c *man/gen_game.Rd
+7d5fa076f6835f862467c0acfe47efb2 *man/gen_set_of_levels.Rd
+4e1dcb5d1fc12d52ddd8b35bb8261b53 *man/gen_set_of_words.Rd
+a62209d21333016913929db8f4bf7cf2 *man/level.Rd
+67b17d889a2bc5fca378eb5669071507 *man/ztype.Rd
